@@ -6,7 +6,6 @@ WebDriverIO starter project using page object model. Automated against Amazon as
 - npm install webdriverio
 - npm install -g selenium-standalone
 - selenium-standalone install
-- npm install -g selenium-standalone
 - selenium-standalone start
 
 # Running Tests:
